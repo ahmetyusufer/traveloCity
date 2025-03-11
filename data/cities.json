@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "6f99",
+      "cityName": "Berovo",
+      "emoji": "🇲🇰",
+      "date": "2025-01-13T10:39:42.253Z",
+      "notes": "dw",
+      "country": "North Macedonia",
+      "position": {
+        "lat": "41.63186741069748",
+        "lng": "22.879028320312504"
+      }
+    },
+    {
+      "id": "f446",
+      "cityName": "Istanbul",
+      "emoji": "🇹🇷",
+      "date": "2025-01-13T10:39:49.024Z",
+      "notes": "",
+      "country": "Turkiye",
+      "position": {
+        "lat": "40.9964840143779",
+        "lng": "29.058837890625004"
+      }
+    },
+    {
+      "id": "a4b9",
+      "cityName": "Central Macedonia",
+      "emoji": "🇬🇷",
+      "date": "2025-03-11T22:57:57.291Z",
+      "notes": "dwawad",
+      "country": "Greece",
+      "position": {
+        "lat": "41.07935114946899",
+        "lng": "22.65380859375"
+      }
+    },
+    {
+      "id": "9955",
+      "cityName": "Opstina Kocani",
+      "emoji": "🇲🇰",
+      "date": "2025-03-11T22:58:02.225Z",
+      "notes": "awadadw",
+      "country": "North Macedonia",
+      "position": {
+        "lat": "42.09822241118974",
+        "lng": "22.395629882812504"
+      }
+    }
+  ]
+}
