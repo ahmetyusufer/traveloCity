@@ -13,18 +13,6 @@
       }
     },
     {
-      "id": "f446",
-      "cityName": "Istanbul",
-      "emoji": "🇹🇷",
-      "date": "2025-01-13T10:39:49.024Z",
-      "notes": "",
-      "country": "Turkiye",
-      "position": {
-        "lat": "40.9964840143779",
-        "lng": "29.058837890625004"
-      }
-    },
-    {
       "id": "a4b9",
       "cityName": "Central Macedonia",
       "emoji": "🇬🇷",
@@ -46,6 +34,18 @@
       "position": {
         "lat": "42.09822241118974",
         "lng": "22.395629882812504"
+      }
+    },
+    {
+      "id": "6317",
+      "cityName": "Istanbul",
+      "emoji": "🇹🇷",
+      "date": "2025-03-19T12:50:00.997Z",
+      "notes": "",
+      "country": "Turkiye",
+      "position": {
+        "lat": "41.000629848685385",
+        "lng": "29.047851562500004"
       }
     }
   ]
