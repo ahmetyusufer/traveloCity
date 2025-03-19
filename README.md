@@ -1,4 +1,4 @@
-![Promotional image](src/assets/traveloCity.png)
+![Promotional image](src/assets/travelocity.png)
 
 # TraveloCity
 
