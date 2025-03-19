@@ -1,6 +1,6 @@
-![Promotional image](src/assets/travelocity.png)
-
 # TraveloCity
+
+![Promotional image](src/assets/travelocity.png)
 
 traveloCity, ziyaret ettiğiniz şehirleri kaydetmenize ve bu şehirlerle ilgili notlar tutmanıza olanak sağlayan bir web uygulamasıdır. Seyahat deneyimlerinizi takip etmek, anılarınızı kaydetmek ve gelecekteki seyahatlerinizi planlamak için mükemmel bir araçtır.
 
